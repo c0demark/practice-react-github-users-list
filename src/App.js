@@ -4,6 +4,7 @@ import "./App.css";
 import CardList from "./user/CardList";
 import SearchForm from "./user/SearchForm";
 
+// Root component to bootstrap react on index html page
 class App extends Component {
   constructor(props) {
     super(props);
